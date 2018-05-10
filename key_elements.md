@@ -1,4 +1,4 @@
-**_Learning Objectives: _**
+**Learning Objectives:**
 
 *LO2a: Learn what major types of collaborative platforms are available and what the use cases for each might be (knowledge).*
 
