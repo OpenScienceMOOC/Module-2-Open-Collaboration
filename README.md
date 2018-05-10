@@ -1,4 +1,4 @@
-# Module 2: Collaborative Platforms
+# Module 2: Open Collaboration
 
 ## Rationale <a name="Rationale"></a>
 
